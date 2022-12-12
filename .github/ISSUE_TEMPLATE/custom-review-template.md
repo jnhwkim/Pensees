@@ -22,3 +22,6 @@ assignees: ''
 #### Weakness:
 * Weakness 1
 * Weakness 2
+
+#### Confidence:
+* Medium
